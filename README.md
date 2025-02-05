@@ -6,7 +6,8 @@ Requirements:
 - [Python3](https://www.python.org/downloads/)
 - [Jupyter Notebook](https://jupyter.org/)
 - Python libraries: [pandas](https://pandas.pydata.org/docs/getting_started/install.html), re, json, requests, [pyingest](https://github.com/adsabs/adsabs-pyingest/tree/master).serializers.classic, and datetime
-- A local folder where these files can be stored on your computer
+- An ADS/SciX API token: When logged into your ADS/SciX account, go to your [user settings](https://scixplorer.org/user/settings/token) to get an API token, and insert it in the Jupyter Notebook
+- A local folder where these files can be stored on your computer (your copy of the notebook, the excel spreadsheet as your input file, and any resulting output files).
 
 The Jupyter Notebook has three sections that can be run independently for the relevant task, based on the data in the associated excel spreadsheet (NASA_Astrobiology.xlsx).
 
